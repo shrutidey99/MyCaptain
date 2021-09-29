@@ -12,6 +12,7 @@ for num in list1:
        print(num, end = " ")
        
 list2 = [12,14,-95,3]
+
 for num in list2:
     if num >= 0:
        print("\n", num,end = " ")      
